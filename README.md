@@ -1,2 +1,2 @@
 # ISEA-labs
-Linux lab notes and learning process for IDEA
+Linux lab notes and learning process for ISEA
