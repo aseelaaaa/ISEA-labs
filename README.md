@@ -22,3 +22,5 @@ UFW is the firewall that blocks incoming connections, so I allowed OpenSSH and A
 tar command was used to create a compressed backup of my files, I've also confirmed the backup worked by extracting the archive into a new folder and listing restored files.
 
 The two ping tests proved that both the internet connection and DNS were working.
+
+I learned that "Permission denied" usually happens when the current user or group does not have the required permissions to access any files or folders
