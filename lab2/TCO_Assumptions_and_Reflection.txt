@@ -1,0 +1,38 @@
+5 Year Printer Total Cost of Ownership (TCO)
+
+Assumptions	
+Comparison period (years)	5
+Weeks per year	52
+Pagers printed per week	750
+Power-on hours per week	40
+Pages per paper ream	500
+Paper cost per ream ($)	$4.93
+Electricity rate per kWh ($)	$0.35
+Total pages over 5 years	195000
+Total power-on hours	10400
+
+
+Printer Details		
+Printer Model	HP DeskJet 2821e	Brother HL-L2460DW
+Printer type	Color Inkjet All-In-One	Monochrome Laser Printer
+Intended use	Home / Personal	Office / Workgroup
+Consumable used	HP 67XL Black	TN2560XL toner and DR2560 drum
+Consumable yield	240 pages	Toner: 3000 pages, Drum: 15000 pages
+Ready-mode power	2.8W	43W
+
+
+Reflection questions
+Based on the TCO, which printer is the most cost-efffective over 5 years?
+Brother HL-L2460DW is the most cost-effective, the 5 year TCO is $11,786.12 while HP printer is $39,409.38. Brother toner has a higher page yield.
+
+Would the answer change for a home user who prints only 5 pages per week?
+Yes, HP DeskJet 2821e would be more cost effective for home use as it is cheaper and the user would not need to print enough to benefit from Brother printer's cheaper cost per page.
+
+What other non-financial factors could influence printer selection?
+Maintenance requirements, print quality, ease of use, print speed, warranty, colour capability, etc.
+
+What cost components are more significant for a large workgroup printer?
+Electricity, toner, maintenance, drum replacement are more significant as a workgroup printer handles a much larger printing volume.
+
+At what point (in years/pages) do the two printer options break even in cost?
+Approximately 2,200 pages is the estimated break-even point. This would happen in about 3 weeks at 750 pages per week, which is why Brother printer becomes more cost-effective.
