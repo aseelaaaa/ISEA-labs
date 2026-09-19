@@ -7,4 +7,4 @@
 3) Created a database named student_db
 4) Included 3 sample student records
 5) Retrieved the records using SELECT
-6) Verified the table structure using SHOW TABLES and Describe
+6) Verified the table structure using SHOW TABLES and DESCRIBE
