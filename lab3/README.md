@@ -15,3 +15,15 @@ Domain:
 https://aseela-lab3.duckdns.org/
 
 ## Part 3b - Server Scripting and Automation
+1) Created test files and directories in Ubuntu
+2) Developed a Bash script to back up the documents to folder
+3) Created timestamped ZIP archives
+4) Made the script executable and moved it to /usr/bin
+5) Configured cron to run the backup automatically every hour
+6) Verified automatic execution using the cron log and backup files
+7) Transferred a backup ZIP file to AWS EC2 using SCP
+8) Verified that the backup was successfully received on the cloud server
+
+Files:
+1) testscript.sh - Bash backup script
+2) lab3-crontab.txt - cron config
